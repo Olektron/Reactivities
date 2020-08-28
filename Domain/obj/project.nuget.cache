@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3Uz9+wGg4mN9hHhkDRvfC1PHis7oICT9IxI52/3g99MxZ6ct2vifOhFAbypyZF6G68bGsP4jmcQg2uT9EAW5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olekt\\OneDrive\\Рабочий стол\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olekt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Olekt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
