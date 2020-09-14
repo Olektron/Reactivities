@@ -48,3 +48,7 @@ C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\obj\Debug\netco
 C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\obj\Debug\netcoreapp3.0\API.pdb
 C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\obj\Debug\netcoreapp3.0\API.genruntimeconfig.cache
 C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\obj\Debug\netcoreapp3.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.dll
+C:\Users\Olekt\OneDrive\Рабочий стол\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

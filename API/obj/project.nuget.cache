@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j4/S0YPkGx9QfgB7ikE2l/ue59eT9Xqvei2nbj1Oi2W7DJGyqTtYS549YTpgeEmNX3/YLAMy7UHvwIlWWJA06Q==",
+  "dgSpecHash": "hPGvISAING1sr6ZaWf02oXc5YJDtExBhh6EJIsebTXofBMhOMGV0CulQmSwBzZNM1O8eRSOkyo4zuHBXylqGzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Olekt\\OneDrive\\Рабочий стол\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Olekt\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Olekt\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\Olekt\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
     "C:\\Users\\Olekt\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Olekt\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
